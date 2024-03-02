@@ -1,4 +1,3 @@
-![背景图](assets/Bottom_up.svg)
 
 <!--   my-icons -->
 <p align="center">
