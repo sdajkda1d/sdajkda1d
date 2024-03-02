@@ -96,7 +96,7 @@
 
 
 ### Profile Views
-Counting of visitors to this page in this section started from June 12, 2022
+Counting of visitors to this page in this section started from Mar 2, 2024
 
 ![统计主页被访问次数](https://profile-counter.glitch.me/sdajkda1d/count.svg)
 </br>
