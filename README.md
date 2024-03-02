@@ -15,7 +15,7 @@
 
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=How+are+you?+你好吗?👋;I+go+by+Benjamin.;+Welcome+to+My+Profile!欢迎来到我的主页!;I+am+a+Chelsea+Fan!;My+major+is+stastic.;Github+community+member!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=How+are+you?+你好吗?👋;I+go+by+Benjamin.;+Welcome+to+My+Profile!+<br>欢迎来到我的主页!;I+am+a+Chelsea+Fan!;My+major+is+stastic.;Github+community+member!)](https://git.io/typing-svg)
 
 **📫 How to Reach me:**
 <p align="left">
