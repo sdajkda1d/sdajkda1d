@@ -20,9 +20,9 @@
 **📫 How to Reach me:**
 <p align="left">
 <a href="https://twitter.com/Benjami97551724" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="Benjamin" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/benjamin-li-3407b02b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/benjamin-li-3407b02b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="Benjamin" height="30" width="30" /></a>
 <a href="mailto:libenjamin361@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-<a href="https://www.tiktok.com/@benjaminli55" target="blank"><img align="center" src="https://github.com/sdajkda1d/sdajkda1d/blob/output/tiktok.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="https://www.tiktok.com/@benjaminli55" target="blank"><img align="center" src="https://github.com/sdajkda1d/sdajkda1d/blob/output/tiktok.svg" alt="tiktok" height="30" width="30" /></a>
 <a href="" target="blank"><img align="center" src="https://github.com/sdajkda1d/sdajkda1d/blob/output/03-chelsea.svg" height="30" width="30" /></a>    
 </p>
 <!--   my-kaggle     
