@@ -55,7 +55,7 @@
     <imag alt="github-snake"src="<https://raw.githubusercontent.com/sdajkda1d/sdajkda1d/output/github-contribution-grid-snake.svg>"/>
 </picture> -->
 
-| .                                                                                                                                       | .                                                                                                                         |
+| Stats                                                                                                                                       | language                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![Benajamin's github stats](https://github-stats.ubrong.com/api?username=sdajkda1d&show_icons=true&theme=dark&include_all_commits=true) | ![账户最常用语言统计](https://github-stats.ubrong.com/api/top-langs/?username=sdajkda1d&theme=dark&layout=compact) |
 
