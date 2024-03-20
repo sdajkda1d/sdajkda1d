@@ -65,16 +65,6 @@
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 
-
-<!--   skyline 
-<a href="https://skyline.github.com/sdajkda1d/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
-
-<!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sdajkda1d" width="auto"></img>
-
-
-
 <div align="center">
 <summary>Trophy: Github Profile Trophy</summary>
 </div>
