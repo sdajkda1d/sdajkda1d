@@ -8,12 +8,13 @@
     <a href="https://github.com/sdajkda1d/sdajkda1d/network/members"><img src="https://img.shields.io/github/forks/sdajkda1d/sdajkda1d.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=sdajkda1d.sdajkda1d" alt="visitors"/>   
 </p>
-<p align="left">
-    <img src="https://raw.githubusercontent.com/sdajkda1d/sdajkda1d/main/GIF/giphy (2).webp" alt="iron_man" style="width: 1000px; height: 800px;">
-</p>
 <p align="center">
     <a href="https://github.com/javasuperdev"><img src="https://readme-typing-svg.herokuapp.com/?lines=How+are+you%EF%BC%9F;I+go+by+Benjamin.;Welcome+to+my+github+Profile!;Across+the+Great+Wall;we+can+reach+every+corner+in+the+world;&font=Vibur&center=true&width=650&height=120&color=FF1493&vCenter=true&size=45%22"></a>
 </p>
+<p align="left">
+    <img src="https://raw.githubusercontent.com/sdajkda1d/sdajkda1d/main/GIF/giphy (2).webp" alt="iron_man" style="width: 1000px; height: 800px;">
+</p>
+
 
 
 <!--   my-kaggle     
