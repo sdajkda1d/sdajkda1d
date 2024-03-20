@@ -13,7 +13,7 @@
 </h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ADD8E6&background=0000FF00&random=false&width=435&lines=Javis%EF%BC%8Cyou+up%EF%BC%9F" alt="Typing SVG" /></a>
 
-<p align="left">
+<p align="center">
     <img src="https://raw.githubusercontent.com/sdajkda1d/sdajkda1d/main/GIF/giphy (2).webp" alt="iron_man" style="width: 500px; height: 400px;">
 </p>
 
