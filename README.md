@@ -94,4 +94,4 @@ Counting of visitors to this page in this section started from Mar 2, 2024
 </br>
 
 ##
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ADD8E6&background=0000FF00&random=false&width=435&lines=For+you%2Csir.;Always.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF606F&background=0000FF00&random=false&width=435&lines=For+you%2Csir.;Always.)](https://git.io/typing-svg)
