@@ -12,7 +12,7 @@
     <a href="https://github.com/javasuperdev"><img src="https://readme-typing-svg.herokuapp.com/?lines=How+are+you%EF%BC%9F;I+go+by+Benjamin.;Welcome+to+my+github+Profile!;Across+the+Great+Wall;we+can+reach+every+corner+in+the+world;&font=Vibur&center=true&width=650&height=120&color=FF1493&vCenter=true&size=45%22"></a>
 </p>
 <p align="left">
-    <img src="https://raw.githubusercontent.com/sdajkda1d/sdajkda1d/main/GIF/giphy (2).webp" alt="iron_man" style="width: 1000px; height: 800px;">
+    <img src="https://raw.githubusercontent.com/sdajkda1d/sdajkda1d/main/GIF/giphy (2).webp" alt="iron_man" style="width: 500px; height: 400px;">
 </p>
 
 
