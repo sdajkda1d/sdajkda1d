@@ -1,5 +1,4 @@
 <!--   my-icons -->
-
 <p align="center">
     <a href="https://github.com/sdajkda1d/sdajkda1d"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
@@ -8,11 +7,12 @@
     <a href="https://github.com/sdajkda1d/sdajkda1d/network/members"><img src="https://img.shields.io/github/forks/sdajkda1d/sdajkda1d.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=sdajkda1d.sdajkda1d" alt="visitors"/>   
 </p>
-<p align="center">
-    <a href="https://github.com/javasuperdev"><img src="https://readme-typing-svg.herokuapp.com/?lines=How+are+you%EF%BC%9F;I+go+by+Benjamin.;Welcome+to+my+github+Profile!;Across+the+Great+Wall;we+can+reach+every+corner+in+the+world;&font=Vibur&center=true&width=650&height=120&color=FF1493&vCenter=true&size=45%22"></a>
-</p>
 
-## Jarvis, you up？
+<h1 align="center">
+    <a href="https://github.com/javasuperdev"><img src="https://readme-typing-svg.herokuapp.com/?lines=How+are+you%EF%BC%9F;I+go+by+Benjamin.;Welcome+to+my+github+Profile!;Across+the+Great+Wall;we+can+reach+every+corner+in+the+world;&font=Vibur&center=true&width=650&height=120&color=FF1493&vCenter=true&size=45%22"></a>
+</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ADD8E6&background=0000FF00&random=false&width=435&lines=Javis%EF%BC%8Cyou+up%EF%BC%9F" alt="Typing SVG" /></a>
+
 <p align="left">
     <img src="https://raw.githubusercontent.com/sdajkda1d/sdajkda1d/main/GIF/giphy (2).webp" alt="iron_man" style="width: 500px; height: 400px;">
 </p>
@@ -91,10 +91,11 @@
 </a>
 
 
-
 ### Profile Views
 Counting of visitors to this page in this section started from Mar 2, 2024
 
 ![统计主页被访问次数](https://profile-counter.glitch.me/sdajkda1d/count.svg)
 </br>
 
+##
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ADD8E6&background=0000FF00&random=false&width=435&lines=For+you%2Csir.;Always.)](https://git.io/typing-svg)
