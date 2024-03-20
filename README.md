@@ -1,7 +1,5 @@
-<div class="center">
-    <img src="微信图片_20240302230956.jpg" alt="图片">
-</div>
 <!--   my-icons -->
+
 <p align="center">
     <a href="https://github.com/sdajkda1d/sdajkda1d"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
@@ -10,14 +8,12 @@
     <a href="https://github.com/sdajkda1d/sdajkda1d/network/members"><img src="https://img.shields.io/github/forks/sdajkda1d/sdajkda1d.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=sdajkda1d.sdajkda1d" alt="visitors"/>   
 </p>
-
-<!--   my-header-img -->
-![](./src/header_.png)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
-
-
-<!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=How+are+you?+你好吗?👋;I+go+by+Benjamin.+我叫本杰明;+Welcome+to+My+Profile!+欢迎来到我的主页!;God+created+a+miracle+how!;Github+community+member!)](https://git.io/typing-svg)
+<p align="left">
+    <img src="https://raw.githubusercontent.com/sdajkda1d/sdajkda1d/main/GIF/giphy (2).webp" alt="iron_man" style="width: 1000px; height: 800px;">
+</p>
+<p align="center">
+    <a href="https://github.com/javasuperdev"><img src="https://readme-typing-svg.herokuapp.com/?lines=How+are+you%EF%BC%9F;I+go+by+Benjamin.;Welcome+to+my+github+Profile!;Across+the+Great+Wall;we+can+reach+every+corner+in+the+world;&font=Vibur&center=true&width=650&height=120&color=FF1493&vCenter=true&size=45%22"></a>
+</p>
 
 
 <!--   my-kaggle     
