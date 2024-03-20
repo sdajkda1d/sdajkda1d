@@ -60,13 +60,14 @@
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![Benajamin's github stats](https://github-stats.ubrong.com/api?username=sdajkda1d&show_icons=true&theme=dark&include_all_commits=true) | ![账户最常用语言统计](https://github-stats.ubrong.com/api/top-langs/?username=sdajkda1d&theme=dark&layout=compact) |
 
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sdajkda1d"></img>
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
+</p>
 
-## :mega:Trophy
-
+## 📣Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sdajkda1d&theme=onedark)](https://github.com/sdajkda1d/github-profile-trophy)
 
