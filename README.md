@@ -1,4 +1,6 @@
-![Profile Background](微信图片_20240302230956.jpg)
+<div class="center">
+    <img src="微信图片_20240302230956.jpg" alt="图片">
+</div>
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/sdajkda1d/sdajkda1d"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
