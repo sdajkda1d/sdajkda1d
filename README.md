@@ -73,7 +73,7 @@
 
 ## :octocat:Schrödinger's cat
  <p align="center">
-    <img src="https://raw.githubusercontent.com/sdajkda1d/sdajkda1d/main/GIF/giphy.gif" alt="iron_man" style="width: 500px; height: 400px;">
+    <img src="https://raw.githubusercontent.com/sdajkda1d/sdajkda1d/main/GIF/df013c1f-ec12-47ed-9e1b-84b27e63bddc.gif" alt="iron_man" style="width: 500px; height: 400px;">
 </p>
 
 
