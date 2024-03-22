@@ -87,11 +87,5 @@
 </a>
 
 
-### 👁️‍🗨️Profile Views
-Counting of visitors to this page in this section started from Mar 2, 2024
-
-![统计主页被访问次数](https://profile-counter.glitch.me/sdajkda1d/count.svg)
-</br>
-
 ##
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF606F&background=0000FF00&random=false&width=435&lines=For+you%2Csir.;Always.)](https://git.io/typing-svg)
