@@ -5,7 +5,7 @@
     <a href="https://github.com/sdajkda1d/sdajkda1d/graphs/contributors"><img src="https://img.shields.io/github/contributors/sdajkda1d/sdajkda1d?color=blue"></a>
     <a href="https://github.com/sdajkda1d/sdajkda1d/stargazers"><img src="https://img.shields.io/github/stars/sdajkda1d/sdajkda1d.svg?logo=github"></a>
     <a href="https://github.com/sdajkda1d/sdajkda1d/network/members"><img src="https://img.shields.io/github/forks/sdajkda1d/sdajkda1d.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=sdajkda1d" alt="visitors"/>   
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=sdajkda1d.sdajkda1d" alt="visitors"/>   
 </p>
 
 <h1 align="center">
