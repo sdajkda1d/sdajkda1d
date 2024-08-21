@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">
-    <a href="https://github.com/javasuperdev"><img src="https://readme-typing-svg.herokuapp.com/?lines=How+are+you%EF%BC%9F;I+go+by+Benjamin.;Welcome+to+my+github+Profile!;Across+the+Great+Wall;we+can+reach+every+corner+in+the+world;&font=Vibur&center=true&width=650&height=120&color=FF1493&vCenter=true&size=45%22"></a>
+    <a href="https://github.com/javasuperdev"><img src="https://readme-typing-svg.herokuapp.com/?lines=How+are+you%EF%BC%9F;I+go+by+Ben.;Welcome+to+my+github+Profile!;Across+the+Great+Wall;we+can+reach+every+corner+in+the+world;&font=Vibur&center=true&width=650&height=120&color=FF1493&vCenter=true&size=45%22"></a>
 </h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ADD8E6&background=0000FF00&random=false&width=435&lines=Jarvis%EF%BC%8Cyou+up%EF%BC%9F" alt="Typing SVG" /></a>
 
