@@ -57,8 +57,8 @@
 </picture> -->
 
 | Benjamin's Stats :sweat_drops:                                                                                                                                      | Languages :newspaper:                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![Benajamin's github stats](<img   align="center" src="https://github-readme-stats.vercel.app/api?username=sdajkda1d&locale=ja&line_height=33&show_icons=true&hide=&theme=&rank_icon=percentile"/>) | ![账户最常用语言统计](https://github-stats.ubrong.com/api/top-langs/?username=sdajkda1d&theme=dark&layout=compact) |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|<img   align="right" src="https://github-readme-stats.vercel.app/api?username=sdajkda1d&locale=ja&line_height=33&show_icons=true&hide=&theme=dark&rank_icon=percentile"/>|<img   align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdajkda1d&locale=ja&line_height=33&theme=dracula&langs_count=6"/>                            |
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sdajkda1d"></img>
