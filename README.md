@@ -71,11 +71,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sdajkda1d&theme=onedark)](https://github.com/sdajkda1d/github-profile-trophy)
 
-## :octocat:Schrödinger's cat
- <p align="center">
-    <img src="https://raw.githubusercontent.com/sdajkda1d/sdajkda1d/main/GIF/df013c1f-ec12-47ed-9e1b-84b27e63bddc.gif" alt="iron_man" style="width: 500px; height: 400px;">
-</p>
-
 
 ## 🤩Star History
 <a href="https://star-history.com/#sdajkda1d/sdajkda1d&Date">
